@@ -1,10 +1,10 @@
-# <Prework Study Guide Webpage>
+# Prework Study Guide Webpage
 
 ## Description
 
 My motivation was to build a webpage with information including HTML, CSS, Git, Javascript. To gain a deeper understanding of these four subjects by having useful details. This projects helps solve gather all the information I need to make a working webpage. I learned many useful information in the Prework study guide, such as coding has its own language, how intricate it is to build webpages etc.
 
-## Installation  
+## Installation
 
 N/A
 
